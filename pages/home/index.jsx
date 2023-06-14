@@ -11,6 +11,7 @@ import About from '../components/ui/About';
       <Campaigns/>
       <MenuWrapper/>
       <About></About>
+      
     </div>
   )
 }
